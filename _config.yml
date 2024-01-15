@@ -1,5 +1,5 @@
 title: Rafael Rosa Baltazar de Souza # your name (or website title) here
-logo: "https://github.com/RafaelBaltazar/RafaelBaltazar.github.io/blob/main/images/DSC_0034a.jpg" # your photo (or logo) here
+logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
   <br><br>
