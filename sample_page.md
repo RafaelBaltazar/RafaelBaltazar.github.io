@@ -39,14 +39,14 @@ labor_openings_data = fred.get_series(labor_openings_series_id,start=start_date,
 To gain insights into the data, I've performed Exploratory Data Analysis using popular data analysis libraries like Pandas, Matplotlib, Seaborn, and NumPy. This includes visualizations of stock prices, inflation rates, interest rates, and labor openings over time.
 
 
-"/images/raw data.jpg?raw=true"
+<img src="images/raw data.jpg?raw=true"/>
 
 
 ### **3. Correlation Analysis**
 I've explored the relationships between the S&P 500 index and economic indicators by calculating and visualizing the correlation matrix. This helps identify potential dependencies that could impact market movements.
 
 
-"/images/heatmap.jpg?raw=true"
+<img src="images/heatmap.jpg?raw=true"/>
 
 
 ### **4. Predictive Modeling**
@@ -59,7 +59,7 @@ Each model's performance has been assessed using metrics such as Mean Absolute E
 A comprehensive comparison table and visualizations showcase the strengths and weaknesses of each model, allowing for an informed choice depending on specific use cases.
 
 
-"/images/score diferences.jpg?raw=true"
+<img src="images/score diferences.jpg?raw=true"/>
 
 
 ### **7. Updating with Up-to-Date Data**
