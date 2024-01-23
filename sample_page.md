@@ -39,7 +39,7 @@ labor_openings_data = fred.get_series(labor_openings_series_id,start=start_date,
 To gain insights into the data, I've performed Exploratory Data Analysis using popular data analysis libraries like Pandas, Matplotlib, Seaborn, and NumPy. This includes visualizations of stock prices, inflation rates, interest rates, and labor openings over time.
 
 
-<img src="images/raw data.jpg?raw=true"/>
+<img src="images/raw data.JPG?raw=true"/>
 
 
 ### **3. Correlation Analysis**
