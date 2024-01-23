@@ -46,7 +46,7 @@ To gain insights into the data, I've performed Exploratory Data Analysis using p
 I've explored the relationships between the S&P 500 index and economic indicators by calculating and visualizing the correlation matrix. This helps identify potential dependencies that could impact market movements.
 
 
-<img src="images/heatmap.jpg"/>
+<img src="images/heatmap.JPG"/>
 
 
 ### **4. Predictive Modeling**
@@ -59,7 +59,7 @@ Each model's performance has been assessed using metrics such as Mean Absolute E
 A comprehensive comparison table and visualizations showcase the strengths and weaknesses of each model, allowing for an informed choice depending on specific use cases.
 
 
-<img src="images/score diferences.jpg?raw=true"/>
+<img src="images/score diferences.JPG?raw=true"/>
 
 
 ### **7. Updating with Up-to-Date Data**
