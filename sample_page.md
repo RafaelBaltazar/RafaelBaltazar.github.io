@@ -38,8 +38,16 @@ labor_openings_data = fred.get_series(labor_openings_series_id,start=start_date,
 ### **2. Exploratory Data Analysis (EDA)**
 To gain insights into the data, I've performed Exploratory Data Analysis using popular data analysis libraries like Pandas, Matplotlib, Seaborn, and NumPy. This includes visualizations of stock prices, inflation rates, interest rates, and labor openings over time.
 
+
+"/images/raw data.jpg?raw=true"
+
+
 ### **3. Correlation Analysis**
 I've explored the relationships between the S&P 500 index and economic indicators by calculating and visualizing the correlation matrix. This helps identify potential dependencies that could impact market movements.
+
+
+"/images/heatmap.jpg?raw=true"
+
 
 ### **4. Predictive Modeling**
 I've implemented three different predictive models: Linear Regression, Random Forest, and Long Short-Term Memory (LSTM) Neural Network. These models in conjunction with indicators like moving averages, standard deviations, inflation rates, interest rates, and labor openings where combined to predict future price changes.
@@ -49,6 +57,10 @@ Each model's performance has been assessed using metrics such as Mean Absolute E
 
 ### **6. Model Comparison**
 A comprehensive comparison table and visualizations showcase the strengths and weaknesses of each model, allowing for an informed choice depending on specific use cases.
+
+
+"/images/score diferences.jpg?raw=true"
+
 
 ### **7. Updating with Up-to-Date Data**
 I've demonstrated how to update historical data with the latest information from Yahoo Finance and FRED API, ensuring that the analysis remains relevant and adaptable to changing market conditions.
