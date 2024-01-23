@@ -59,7 +59,7 @@ Each model's performance has been assessed using metrics such as Mean Absolute E
 A comprehensive comparison table and visualizations showcase the strengths and weaknesses of each model, allowing for an informed choice depending on specific use cases.
 
 
-<img src="images/score diferences.JPG?raw=true"/>
+<img src="images/Score diferences.JPG?raw=true"/>
 
 
 ### **7. Updating with Up-to-Date Data**
