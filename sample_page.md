@@ -22,5 +22,5 @@ Each model's performance has been assessed using metrics such as Mean Absolute E
 ### **6. Model Comparison**
 A comprehensive comparison table and visualizations showcase the strengths and weaknesses of each model, allowing for an informed choice depending on specific use cases.
 
-**7. Updating with Up-to-Date Data**
+### **7. Updating with Up-to-Date Data**
 I've demonstrated how to update historical data with the latest information from Yahoo Finance and FRED API, ensuring that the analysis remains relevant and adaptable to changing market conditions.
