@@ -1,4 +1,4 @@
-**#Financial Market Analysis and Prediction Project#**
+#Financial Market Analysis and Prediction Project#
 
 **Overview**
 This is my Financial Market Analysis and Prediction project simple approach atempt. This repository houses my exploration into data science and its application to financial markets. The goal of this project is to analyse historical market data and economic indicators, importing different datasets in order to identify trends, build predictive models, compare them and then using one to give a future price prediciton.
