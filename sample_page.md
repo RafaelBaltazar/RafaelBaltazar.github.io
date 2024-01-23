@@ -7,6 +7,34 @@ This is my Financial Market Analysis and Prediction project simple approach atem
 ### **1. Data Retrieval and Preprocessing**
 I've used Python for fetching historical stock prices of the S&P 500 index from Yahoo Finance using the yfinance library. Additionally, economic indicators such as inflation rate, interest rate, and labor openings have been obtained from the Federal Reserve Economic Data (FRED) API using the fredapi library.
 
+```
+import yfinance as yf
+
+# Define the ticker symbol for S&P 500 (SPY is the ETF that tracks it)
+ticker_symbol = "SPY"
+
+# Define the start and end dates for your data
+start_date = "2000-12-01"
+end_date = "2023-09-01"
+sp500_data = yf.download(ticker_symbol, start=start_date, end=end_date)
+
+from fredapi import Fred
+
+# Initialize the FRED API client
+fred = Fred(api_key=api_key)
+
+# Define the series IDs for the economic indicators you want to retrieve
+inflation_series_id = 'CPIAUCSL'  # Consumer Price Index for All Urban Consumers (CPI-U)
+interest_rate_series_id = 'FEDFUNDS'  # Effective Federal Funds Rate
+labor_openings_series_id = 'JTSJOL'  # Job Openings
+
+# Fetch economic indicator data from FRED
+inflation_data = fred.get_series(inflation_series_id,start=start_date, end=end_date)
+interest_rate_data = fred.get_series(interest_rate_series_id,start=start_date, end=end_date)
+labor_openings_data = fred.get_series(labor_openings_series_id,start=start_date, end=end_date)
+
+```
+
 ### **2. Exploratory Data Analysis (EDA)**
 To gain insights into the data, I've performed Exploratory Data Analysis using popular data analysis libraries like Pandas, Matplotlib, Seaborn, and NumPy. This includes visualizations of stock prices, inflation rates, interest rates, and labor openings over time.
 
