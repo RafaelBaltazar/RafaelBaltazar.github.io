@@ -46,7 +46,7 @@ To gain insights into the data, I've performed Exploratory Data Analysis using p
 I've explored the relationships between the S&P 500 index and economic indicators by calculating and visualizing the correlation matrix. This helps identify potential dependencies that could impact market movements.
 
 
-<img src="images/heatmap.jpg?raw=true"/>
+<img src="images/heatmap.jpg"/>
 
 
 ### **4. Predictive Modeling**
