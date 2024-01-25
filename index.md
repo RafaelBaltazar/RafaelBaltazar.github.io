@@ -8,7 +8,7 @@
 <img src="images/Market Prediction Snippet.jpeg?raw=true"/>
 
 ---
-[Music Recomendator and Visualization](/Project 2)
+[Music Recomendator and Visualization](/Project2)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
