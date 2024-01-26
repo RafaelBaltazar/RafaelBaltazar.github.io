@@ -9,7 +9,7 @@
 
 ---
 [Music Recomendator and Visualization](/Project2)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/recomendator_snippet.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
