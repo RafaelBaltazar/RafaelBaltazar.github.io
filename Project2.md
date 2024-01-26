@@ -31,7 +31,7 @@ Applied one-hot encoding and PCA to embed songs into a lower-dimensional space, 
 
 ### *Song Recommendation*
 
-Developed a song recommendation system based on Euclidean distances and visualized recommended songs.
+Developed a song recommendation system based on Euclidean distances and recommended songs with visualization of the album covers.
 
 ### *Conclusion*
 
