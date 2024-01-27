@@ -4,12 +4,12 @@
 
 ### Projects
 
-[Financial Market Analysis and Prediction Project](/sample_page)
-<img src="images/Market Prediction Snippet.jpeg?raw=true"/>
+[Financial Market Analysis and Prediction Project](/market_prediction)
+<img src="images/market_prediction_thumbnail.jpeg?raw=true"/>
 
 ---
-[Music Recomendator and Visualization](/Project2)
-<img src="images/recomendator_snippet.jpg?raw=true"/>
+[Music Recomendator and Visualization](/music_recomendator)
+<img src="images/recomendator_thumbnail.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
