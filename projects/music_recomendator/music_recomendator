@@ -1,14 +1,9 @@
 import pandas as pd
 import numpy as np
 
-from google.colab import drive
-drive.mount('/content/drive')
-
-dados = pd.read_csv('/content/drive/MyDrive/Colab Notebooks/Dados_totais.csv')
-
-dados_genero = pd.read_csv('/content/drive/MyDrive/Colab Notebooks/data_by_genres.csv')
-
-dados_anos = pd.read_csv("/content/drive/MyDrive/Colab Notebooks/data_by_year.csv")
+dados = pd.read_csv('Dados_totais.csv')
+dados_genero = pd.read_csv('data_by_genres.csv')
+dados_anos = pd.read_csv("data_by_year.csv")
 
 dados.head()
 
