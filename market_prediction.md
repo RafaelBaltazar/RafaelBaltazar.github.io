@@ -66,4 +66,4 @@ A comprehensive comparison table and visualizations showcase the strengths and w
 I've demonstrated how to update historical data with the latest information from Yahoo Finance and FRED API, ensuring that the analysis remains relevant and adaptable to changing market conditions.
 
 
-You can find the link for the code [here] (https://raw.githubusercontent.com/RafaelBaltazar/RafaelBaltazar.github.io/main/projects/market_prediction/market_prediction)
+You can find the link for the code [here](https://raw.githubusercontent.com/RafaelBaltazar/RafaelBaltazar.github.io/main/projects/market_prediction/market_prediction)
