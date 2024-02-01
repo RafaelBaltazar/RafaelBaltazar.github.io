@@ -58,7 +58,7 @@ Each model's performance has been assessed using metrics such as Mean Absolute E
 ### **6. Model Comparison**
 A comprehensive comparison table and visualizations showcase the strengths and weaknesses of each model, allowing for an informed choice depending on specific use cases.
 
-
+link: https://raw.githubusercontent.com/RafaelBaltazar/RafaelBaltazar.github.io/main/projects/market_prediction/market_prediction
 <img src="images/Score diferences.JPG?raw=true"/>
 
 
