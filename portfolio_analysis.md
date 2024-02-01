@@ -10,4 +10,4 @@
 
 ### *Benchmarking with SPY:* Compared portfolio equity with SPY (S&P 500 ETF) prices to gauge performance including an insight on what it would be discounted the deposits made over time for a more precise understanding of the performance. Other instrument could be used for comparisson such as gold, inflation, and others.
 
-### *Conclusion:* This project showcases a superficial approach to financial portfolio analysis, offering insights into profits, losses, dividends, and overall portfolio performance. The visualizations provide a clear understanding of financial trends, aiding in an informed decision-making by the portfoliio manager. 
+## *Conclusion:* This project showcases a superficial approach to financial portfolio analysis, offering insights into profits, losses, dividends, and overall portfolio performance. The visualizations provide a clear understanding of financial trends, aiding in an informed decision-making by the portfoliio manager. 
