@@ -16,3 +16,5 @@ Compared portfolio equity with SPY (S&P 500 ETF) prices to gauge performance inc
 
 ## *Conclusion:* 
 This project showcases a superficial approach to financial portfolio analysis, offering insights into profits, losses, dividends, and overall portfolio performance. The visualizations provide a clear understanding of financial trends, aiding in an informed decision-making by the portfoliio manager. 
+
+link: https://raw.githubusercontent.com/RafaelBaltazar/RafaelBaltazar.github.io/main/projects/Portfolio%20Analysis/portfolio_analysis
