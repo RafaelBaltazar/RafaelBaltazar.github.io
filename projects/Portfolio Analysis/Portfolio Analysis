@@ -1,16 +1,9 @@
 # **IMPORTING DATA FROM WEB, READING ITS CONTENT AND SPLITTING INTO DIFFERENT DFs**
 
-from google.colab import drive
-
-# Mount Google Drive
-drive.mount('/content/drive')
-
 import pandas as pd
 
-# Define the file path
-file_path = "/content/drive/MyDrive/Colab Notebooks/Portfolio Analysis/account_statement.xlsx"
+file_path = "https://raw.githubusercontent.com/RafaelBaltazar/RafaelBaltazar.github.io/main/projects/portfolio_analysis/account_statement.xlsx"
 
-# Read the Excel file into a DataFrame
 df = pd.read_excel(file_path, sheet_name=None)
 
 for sheet_name, sheet_data in df.items():
