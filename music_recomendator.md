@@ -25,6 +25,10 @@ Employed PCA to reduce the dimensions of genre data and applied KMeans clusterin
 
 Created interactive scatter plots to showcase clusters and their associated genres.
 
+
+<img src="images/cluster_pca.JPG?raw=true"/>
+
+
 ### *Song Embedding*
 
 Applied one-hot encoding and PCA to embed songs into a lower-dimensional space, allowing for clustering.
