@@ -7,7 +7,7 @@ This project explores music metadata using Python and various data analysis tool
 
 ### *Data Loading and Exploration*
 
-Loaded music data from CSV files and explored basic statistics. The database can be found [here](https://github.com/RafaelBaltazar/RafaelBaltazar.github.io/tree/main/projects/music_recomendator)
+Loaded music data from CSV files and explored basic statistics. The database can be found [here](https://github.com/RafaelBaltazar/RafaelBaltazar.github.io/tree/main/projects/music_recomendator).
 
 ### *Data Cleaning*
 
@@ -45,4 +45,4 @@ Developed a song recommendation system based on Euclidean distances and recommen
 
 This project not only explores the technical aspects of data analysis but also demonstrates the art of transforming raw data into meaningful insights and recommendations. The visualization component adds an interactive element, enhancing the user experience.
 
-You can find the link to the code [here](https://raw.githubusercontent.com/RafaelBaltazar/RafaelBaltazar.github.io/main/projects/music_recomendator/music_recomendator)
+You can find the link to the code [here](https://raw.githubusercontent.com/RafaelBaltazar/RafaelBaltazar.github.io/main/projects/music_recomendator/music_recomendator).
