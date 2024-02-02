@@ -7,7 +7,7 @@ This project explores music metadata using Python and various data analysis tool
 
 ### *Data Loading and Exploration*
 
-Loaded music data from CSV files and explored basic statistics. The database can be found [here](https://raw.githubusercontent.com/RafaelBaltazar/RafaelBaltazar.github.io/tree/main/projects/music_recomendator/)
+Loaded music data from CSV files and explored basic statistics. The database can be found [here](https://github.com/RafaelBaltazar/RafaelBaltazar.github.io/tree/main/projects/music_recomendator)
 
 ### *Data Cleaning*
 
