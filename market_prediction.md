@@ -65,5 +65,7 @@ A comprehensive comparison table and visualizations showcase the strengths and w
 ### **7. Updating with Up-to-Date Data**
 I've demonstrated how to update historical data with the latest information from Yahoo Finance and FRED API, ensuring that the analysis remains relevant and adaptable to changing market conditions.
 
+## *Conclusion*
+The project was successfull delivering a target price based on the previous data feeded into the model. Further experiment should be done with different data base and metrics for a more precise conclusion.  
 
 You can find the link for the code [here](https://raw.githubusercontent.com/RafaelBaltazar/RafaelBaltazar.github.io/main/projects/market_prediction).
