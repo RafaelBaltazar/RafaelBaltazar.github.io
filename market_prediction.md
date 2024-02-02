@@ -39,7 +39,7 @@ labor_openings_data = fred.get_series(labor_openings_series_id,start=start_date,
 To gain insights into the data, I've performed Exploratory Data Analysis using popular data analysis libraries like Pandas, Matplotlib, Seaborn, and NumPy. This includes visualizations of stock prices, inflation rates, interest rates, and labor openings over time.
 
 
-<img src="images/raw data.JPG?raw=true"/>
+<img src="images/raw_data.JPG?raw=true"/>
 
 
 ### **3. Correlation Analysis**
@@ -59,11 +59,11 @@ Each model's performance has been assessed using metrics such as Mean Absolute E
 A comprehensive comparison table and visualizations showcase the strengths and weaknesses of each model, allowing for an informed choice depending on specific use cases.
 
 
-<img src="images/Score diferences.JPG?raw=true"/>
+<img src="images/score_diferences.JPG?raw=true"/>
 
 
 ### **7. Updating with Up-to-Date Data**
 I've demonstrated how to update historical data with the latest information from Yahoo Finance and FRED API, ensuring that the analysis remains relevant and adaptable to changing market conditions.
 
 
-You can find the link for the code [here](https://raw.githubusercontent.com/RafaelBaltazar/RafaelBaltazar.github.io/main/projects/market_prediction/market_prediction)
+You can find the link for the code [here](https://raw.githubusercontent.com/RafaelBaltazar/RafaelBaltazar.github.io/main/projects/market_prediction).
