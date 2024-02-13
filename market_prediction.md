@@ -68,4 +68,4 @@ I've demonstrated how to update historical data with the latest information from
 ## *Conclusion*
 The project was successfull delivering a target price based on the previous data feeded into the model. Further experiment should be done with different data base and metrics for a more precise conclusion.  
 
-You can find the link for the code [here](https://raw.githubusercontent.com/RafaelBaltazar/RafaelBaltazar.github.io/main/projects/market_prediction/market_prediction.ipynb).
+You can find the link for the code [here](https://github.com/RafaelBaltazar/RafaelBaltazar.github.io/blob/40d8e7ec309342b35b137f1b8c5b03465961ad84/projects/market_prediction/market_prediction.ipynb).
