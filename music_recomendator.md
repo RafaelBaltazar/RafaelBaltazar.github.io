@@ -45,4 +45,4 @@ Developed a song recommendation system based on Euclidean distances and recommen
 
 This project not only explores the technical aspects of data analysis but also demonstrates the process for transforming raw data into meaningful information and facilitates future recommendations. The visualization component adds an interactive element, enhancing the user experience and further analysis.
 
-You can find the link to the code [here](https://raw.githubusercontent.com/RafaelBaltazar/RafaelBaltazar.github.io/main/projects/music_recomendator/music_recomendator.ipynb).
+You can find the link to the code [here](https://github.com/RafaelBaltazar/RafaelBaltazar.github.io/blob/590f7836deb1410fbc6ab95c17181532a7ad282d/projects/music_recomendator/music_recomendator.ipynb).
