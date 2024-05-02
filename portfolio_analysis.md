@@ -1,12 +1,21 @@
 # *Portfolio Analysis*
 
 ## *Description* 
-The analysis focuses on an account statement obtained from an Excel file, dissecting various aspects such as closed positions, dividends, financial summary, account activity, and portfolio equity. Utilizing Pandas, Plotly, and Altair, this project aims to give comprehensive visualizations and insights into the data provided.
+The analysis focuses on an account statement obtained from an Excel file, dissecting various aspects such as closed positions, dividends, financial summary, account activity, and portfolio equity. Utilizing Pandas, Plotly, and Altair, this project aims to give comprehensive visualizations and insights into the data provided for an informed decision by the portfolio managers and a comprehensive visualization to the account owner.
 
 ## *Code Summary*
 
 ### *Importing and Organizing Data:* 
-Loaded financial data from an Excel file and organized it into different DataFrames for easy analysis.
+Loaded financial data from an Excel file and organized it into different DataFrames for easy analysis using pandas read_csv function. For the different sheets in the excell file it was split into different data frames for easier manipulation and understanding. 
+
+``` df = pd.read_excel(file_path, sheet_name=None) ```
+
+``` account_summary =df['Account Summary']
+    closed_positions=df['Closed Positions']
+    account_activity=df['Account Activity']
+    dividends=df['Dividends']
+    financial_summary=df['Financial Summary']
+    portfolio_equity=df['Portfolio Equity'] ```
 
 ### *Exploratory Analysis* 
 Explored each sheet's data, checked for null values, and filled missing values appropriately. Also provided analysis on dividends received, deposits made over the years. On the positions closed over time it was possible to calculate profit/losses made, fees paid, and most profit and losses made by asset. Analysing the Portfolio Equity it was possible to identify the growth of the portfolio, cummulative returns and drawdown over time.
