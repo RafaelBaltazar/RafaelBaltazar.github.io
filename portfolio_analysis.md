@@ -12,13 +12,14 @@ Reading:
 ```    df = pd.read_excel(file_path, sheet_name=None) ```
 
 Spliting into different Data Frames:
-```    account_summary =df['Account Summary']```
-```    closed_positions=df['Closed Positions']```
-```    account_activity=df['Account Activity']```
-```    dividends=df['Dividends']```
-```    financial_summary=df['Financial Summary']```
-```    portfolio_equity=df['Portfolio Equity'] ```
-
+```
+account_summary =df['Account Summary']
+closed_positions=df['Closed Positions']
+account_activity=df['Account Activity']
+dividends=df['Dividends']
+financial_summary=df['Financial Summary']
+portfolio_equity=df['Portfolio Equity'] 
+```
 ### *Exploratory Analysis* 
 Explored each sheet's data, checked for null values, and filled missing values appropriately. Also provided analysis on dividends received, deposits made over the years. On the positions closed over time it was possible to calculate profit/losses made, fees paid, and most profit and losses made by asset. Analysing the Portfolio Equity it was possible to identify the growth of the portfolio, cummulative returns and drawdown over time.
 
