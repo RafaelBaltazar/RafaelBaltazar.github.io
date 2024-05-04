@@ -31,13 +31,26 @@ Explored each sheet's data, checked for null values, and filled missing values a
 
 ![Alt text](https://amount_by_asset.jpg)
 
-3. The account activity displayed a constant deposit over time of an average of $700.00 , having just one big outlier in october 2020 with an unusual ammount deposited of more than $6000.00. It was possible to determine the total accumulated deposits over the period, an important metric to define it the portfolio was profitable over time.
+That is also represented on the most profitable assets seen in the picture:
 
+![Alt text](https://amount_by_asset.jpg)
+
+This could be a reflection of the asset volatility or a portfolio more aligned towards crypto assets. 
+
+3. The account activity displayed a constant deposit over time of an average of $700.00, having just one big outlier in october 2020 with an unusual ammount deposited of more than $6000.00. It was possible to determine the total accumulated deposits over the period, an important metric to define it the portfolio was profitable over time.
+
+![Alt text](https://deposits.jpg)    ![Alt text](https://total_deposits.jpg)
+
+4. It's possible to see that the portfolio holds $1763.00 on average of it's capital in cash. For a portfolio manager it is important to keep a portion of it's capital allocated to make any further allocations without having to realize other positions. It shows that the portfolio is active and have an active approach buying and selling assets.
+
+5. The portfolio value over time accounts for the deposits and for that reason it is necessary to take that factor in. The picture shows the difference between them where on the left the deposits covers the losses made. Prudence is advised when analysing a portfolio appreciation over time and proper understanding of it's metrics can lead to an unreal impression.
+
+![Alt text](https://comparison_portfolio_value.jpg)
 
 ### *Benchmarking with SPY* 
 Compared portfolio equity with SPY (S&P 500 ETF) prices to gauge performance including an insight on what it would be discounted the deposits made over time for a more precise understanding of the performance. Other instrument could be used for comparisson such as gold, inflation, and others.
 
 ## *Conclusion* 
-This project showcases a superficial approach to financial portfolio analysis, offering insights into profits, losses, dividends, and overall portfolio performance. The visualizations provide a clear understanding of financial trends, aiding in an informed decision-making by the portfolio manager. 
+This project showcases an approach to financial portfolio analysis, offering insights into profits, losses, dividends, and overall portfolio performance. The visualizations provide a clear understanding of financial trends, aiding in an informed decision-making by the portfolio manager. 
 
 You can find the link for the code [here](https://github.com/RafaelBaltazar/RafaelBaltazar.github.io/blob/590f7836deb1410fbc6ab95c17181532a7ad282d/projects/Portfolio%20Analysis/portfolio_analysis.ipynb).
