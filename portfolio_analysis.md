@@ -44,12 +44,31 @@ This could be a reflection of the asset volatility or a portfolio more aligned t
 
 4. It's possible to see that the portfolio holds $1763.00 on average of it's capital in cash. For a portfolio manager it is important to keep a portion of it's capital allocated to make any further allocations without having to realize other positions. It shows that the portfolio is active and have an active approach buying and selling assets.
 
-5. The portfolio value over time accounts for the deposits and for that reason it is necessary to take that factor in. The picture shows the difference between them where on the left the deposits covers the losses made. Prudence is advised when analysing a portfolio appreciation over time and proper understanding of it's metrics can lead to an unreal impression.
+5. The portfolio value over time accounts for the deposits and for that reason it is necessary to take that factor in. The picture shows the difference between them where on the left the deposits covers the losses made. Prudence is advised when analysing a portfolio appreciation over time and proper understanding of it's metrics can lead to an unreal impression. In this case the net growth is 471.36% opposed to 4024.47% without taking the deposits from the total portfolio value.
 
 ![Alt text](https://comparison_portfolio_value.jpg)
 
+6. The drawdown metric is used to determine how much the portfolio dropped in a particular period of time. This is important to measure the potential loss of a portflolio and how much an investor can expect to lose. The portfolio shows a drawndown of 8.07% on a monthly average and maximum of 31.22% on a single month. 
+
+![Alt text](https://drawdown.jpg)
+
 ### *Benchmarking with SPY* 
-Compared portfolio equity with SPY (S&P 500 ETF) prices to gauge performance including an insight on what it would be discounted the deposits made over time for a more precise understanding of the performance. Other instrument could be used for comparisson such as gold, inflation, and others.
+Compared portfolio equity with SPY (S&P 500 ETF) prices to gauge performance including an insight on what it would be discounted the deposits made over time for a more precise understanding of the performance. Other instrument could be used for comparisson such as gold, inflation, and others. Considering composition of the portfolio having more volatile assets from the US stock market S&P 500 was chosen as the main comparison. To do that it was needed to import data from an outside data source (Yahoo Finance) using the code:
+
+```
+import yfinance as yf
+
+ticker_symbol = 'SPY'
+
+start_date = '2020-01-02'
+end_date = '2024-01-01'
+
+spy_data = yf.download(ticker_symbol, start=start_date, end=end_date)
+
+spy_data = spy_data.reset_index()
+```
+#### *Key findings:*
+
 
 ## *Conclusion* 
 This project showcases an approach to financial portfolio analysis, offering insights into profits, losses, dividends, and overall portfolio performance. The visualizations provide a clear understanding of financial trends, aiding in an informed decision-making by the portfolio manager. 
