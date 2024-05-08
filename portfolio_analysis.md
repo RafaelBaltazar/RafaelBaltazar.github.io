@@ -68,7 +68,9 @@ spy_data = yf.download(ticker_symbol, start=start_date, end=end_date)
 spy_data = spy_data.reset_index()
 ```
 #### *Key findings:*
-
+1. There was a clear upward trend in the fees for the first two months of activity.
+2. The total profit of the portfolio in the period was $4579
+3. The profit over time has a mean of  1.37, indicating a very low profit in majority of the positions, having the maximum loss of $-595 and maximum profit at $740.
 
 ## *Conclusion* 
 This project showcases an approach to financial portfolio analysis, offering insights into profits, losses, dividends, and overall portfolio performance. The visualizations provide a clear understanding of financial trends, aiding in an informed decision-making by the portfolio manager. 
