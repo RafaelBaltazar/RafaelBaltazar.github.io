@@ -93,4 +93,4 @@ spy_data = spy_data.reset_index()
   Better understanding on the risk management can improve both short_lived trading profits, reduce losses, and help get a performance boost against the benchmark. But overall it has a good performance against the compared SPY asset. 
 
 
-You can find the link for the code [here](https://github.com/RafaelBaltazar/RafaelBaltazar.github.io/blob/590f7836deb1410fbc6ab95c17181532a7ad282d/projects/Portfolio%20Analysis/Portfolio_Analysis (github).ipynb).
+You can find the link for the code [here](https://github.com/RafaelBaltazar/RafaelBaltazar.github.io/blob/590f7836deb1410fbc6ab95c17181532a7ad282d/projects/Portfolio%20Analysis/Portfolio_Analysis%(github).ipynb).
