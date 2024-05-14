@@ -46,7 +46,7 @@ portfolio_equity=df['Portfolio Equity']
 
 It was possible to determine the total accumulated deposits over the period, an important metric to define it the portfolio was profitable over time.
 
-<img src="total_deposits.png?raw=true"/>
+<img src="images/total_deposits.png?raw=true"/>
 
 4. It's possible to see that the portfolio holds $1763.00 on average of it's capital in cash. For a portfolio manager it is important to keep a portion of it's capital allocated to make any further allocations without having to realize other positions. It shows that the portfolio is active and have an active approach buying and selling assets.
 
