@@ -78,11 +78,11 @@ spy_data = spy_data.reset_index()
 
 4. The profit over time has a mean of  1.37, indicating a very low profit in majority of the positions, having the maximum loss of $-595 and maximum profit at $740. Could sugest a fast trading strategy focused on quantity of trades more than long term investing strategy. This is evidenced by the ammount of trades made and how long for the position to be closed. I found out that 34 trades were made with a duration of 39 days being the largest by far from other position durations.
 
-<img src="images/longest_positions.png?raw=true"/>
+<img src="images/longest_positions.JPG?raw=true"/>
 
 5. The benchmark showed an appreciation in value of 70% against 471.36% of the portfolio demonstrating a good portfolio and risk management.
 
-<img src="images/spy_net_comparison.png?raw=true"/>
+<img src="images/portvsspy.JPG?raw=true"/>
 
 
 ## *Conclusion* 
