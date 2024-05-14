@@ -89,8 +89,11 @@ spy_data = spy_data.reset_index()
 
 ## *Conclusion* 
   This project showcases an approach to financial portfolio analysis, offering insights into profits, losses, dividends, and overall portfolio performance. The visualizations provide a clear understanding of financial trends, aiding in an informed decision-making by the portfolio manager. 
+  
   Sugestions on improvement are on the focus on the quality of the trades with an attempt to improve the average of profit per trades. This could lead to a better performance with a net equity greater than the benchmark.
+  
   Better understanding on the risk management can improve both short_lived trading profits, reduce losses, and help get a performance boost against the benchmark. But overall it has a good performance against the compared SPY asset. 
+
 
 
 You can find the link for the code [here](https://github.com/RafaelBaltazar/RafaelBaltazar.github.io/blob/590f7836deb1410fbc6ab95c17181532a7ad282d/projects/Portfolio%20Analysis/Portfolio_Analysis_github.ipynb).
