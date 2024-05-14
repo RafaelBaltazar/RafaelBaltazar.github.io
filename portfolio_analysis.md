@@ -96,4 +96,4 @@ spy_data = spy_data.reset_index()
 
 
 
-You can find the link for the code [here](https://github.com/RafaelBaltazar/RafaelBaltazar.github.io/blob/590f7836deb1410fbc6ab95c17181532a7ad282d/projects/Portfolio%20Analysis/Portfolio_Analysis_github.ipynb).
+You can find the link for the code [here](https://github.com/RafaelBaltazar/RafaelBaltazar.github.io/blob/main/projects/Portfolio%20Analysis/portfolio_analysis.ipynb).
