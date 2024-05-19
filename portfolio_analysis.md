@@ -82,7 +82,7 @@ spy_data = spy_data.reset_index()
 
 <img src="images/longest_positions.JPG?raw=true"/>
 
-5. The benchmark showed an appreciation in value of 70% against 471.36% of the portfolio demonstrating a good portfolio and risk management.
+5. The benchmark showed an appreciation in value of 70% against 471.36% of the portfolio demonstrating a good portfolio and risk management. At same time is visible some volatitily compared the benchmark through the almost flatlined SPY comparisson showing great appreciation and drawdown in short period of time.
 
 <img src="images/portvsspy.png?raw=true"/>
 
